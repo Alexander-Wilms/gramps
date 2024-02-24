@@ -225,12 +225,12 @@ msgstr "Úkraína"
 msgid "United States of America"
 msgstr "Bandaríki Norður-Ameríku"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:4
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:4
 #: ../data/org.gramps_project.Gramps.desktop.in:3
 msgid "Gramps"
 msgstr "Gramps"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:5
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:5
 #: ../data/org.gramps_project.Gramps.desktop.in:6
 msgid ""
 "Manage genealogical information, perform genealogical research and analysis"
@@ -238,7 +238,7 @@ msgstr ""
 "Sýslaðu með ættfræðiupplýsingar, stundaðu rannsóknir og greiningar á "
 "ættartölum"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:7
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:7
 #: ../gramps/gen/const.py:255
 msgid ""
 "Gramps is a genealogy program that is both intuitive for hobbyists and "
@@ -247,7 +247,7 @@ msgstr ""
 "Gramps er ættfræðiforrit sem hentar vel áhugafólki en er einnig nógu "
 "fullkomið fyrir atvinnumenn á þessu sviði."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:8
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:8
 msgid ""
 "It gives you the ability to record the many details of the life of an "
 "individual as well as the complex relationships between various people, "
@@ -256,7 +256,7 @@ msgstr ""
 "Hægt er að skrá mörg nákvæm smáatriði í lífi einstaklinga, auk þess að geta "
 "haldið utan um flókin tengsl milli einstaklinga, staða og atburða."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:9
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:9
 msgid ""
 "All of your research is kept organized, searchable and as precise as you "
 "need it to be."
@@ -264,7 +264,7 @@ msgstr ""
 "Rannsóknir þínar verða skipulagðar, hægt að leita í þeim á marga vegu og "
 "nákvæmi þeirra getur verið jafn mikil og þér hentar."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:12
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:12
 msgid "Gramps Development Team"
 msgstr "Þróunarteymi Gramps"
 

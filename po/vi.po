@@ -233,19 +233,19 @@ msgstr "Ukrain"
 msgid "United States of America"
 msgstr "Lễ hội của Mỹ "
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:4
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:4
 #: ../data/org.gramps_project.Gramps.desktop.in:3
 msgid "Gramps"
 msgstr "Gramps"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:5
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:5
 #: ../data/org.gramps_project.Gramps.desktop.in:6
 msgid ""
 "Manage genealogical information, perform genealogical research and analysis"
 msgstr ""
 "Quản lý thông tin gia phả, thực hiện nghiên cứu và phân tích gia phả học "
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:7
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:7
 #: ../gramps/gen/const.py:255
 msgid ""
 "Gramps is a genealogy program that is both intuitive for hobbyists and "
@@ -254,7 +254,7 @@ msgstr ""
 "Gramps là chương trình gia phả vừa mang tính trực giác cho người nghiệp dư "
 "vừa đủ các đặc điểm cho người làm gia phả chuyên nghiệp."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:8
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:8
 msgid ""
 "It gives you the ability to record the many details of the life of an "
 "individual as well as the complex relationships between various people, "
@@ -263,7 +263,7 @@ msgstr ""
 "Nó cho bạn khả năng ghi lại nhiều chi tiết của đời sống một cá nhân cũng như "
 "những mối quan hệ phức tạp giữa những người, địa điểm và sự kiện khác nhau."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:9
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:9
 msgid ""
 "All of your research is kept organized, searchable and as precise as you "
 "need it to be."
@@ -271,7 +271,7 @@ msgstr ""
 "Và mọi nghiên cứu của bạn được sắp xếp, truy tìm và rạch ròi ở mức bạn cần "
 "nó."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:12
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:12
 #, fuzzy
 msgid "Gramps Development Team"
 msgstr "Hệ thống gia phả Gramps "

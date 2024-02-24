@@ -280,19 +280,19 @@ msgstr "Ucraina"
 msgid "United States of America"
 msgstr "Stati Uniti d'America"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:4
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:4
 #: ../data/org.gramps_project.Gramps.desktop.in:3
 msgid "Gramps"
 msgstr "Gramps"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:5
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:5
 #: ../data/org.gramps_project.Gramps.desktop.in:6
 msgid ""
 "Manage genealogical information, perform genealogical research and analysis"
 msgstr ""
 "Gestisce informazioni genealogiche, effettua ricerche ed analisi genealogiche"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:7
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:7
 #: ../gramps/gen/const.py:255
 msgid ""
 "Gramps is a genealogy program that is both intuitive for hobbyists and "
@@ -301,7 +301,7 @@ msgstr ""
 "Gramps è un programma di genealogia sia intuitivo per gli hobbisti, sia "
 "completo in termini di funzionalità per i genealogisti professionisti."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:8
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:8
 msgid ""
 "It gives you the ability to record the many details of the life of an "
 "individual as well as the complex relationships between various people, "
@@ -310,7 +310,7 @@ msgstr ""
 "Ti permette di registrare gli svariati dettagli della vita di un individuo, "
 "così come le complesse relazioni tra varie persone, luoghi ed eventi."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:9
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:9
 msgid ""
 "All of your research is kept organized, searchable and as precise as you "
 "need it to be."
@@ -318,7 +318,7 @@ msgstr ""
 "Tutta la tua ricerca viene mantenuta in ordine, con possibilità di ricerca e "
 "precisa in base alle tue necessità."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:12
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:12
 msgid "Gramps Development Team"
 msgstr "Team Sviluppatori Gramps"
 

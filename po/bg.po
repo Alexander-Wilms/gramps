@@ -235,12 +235,12 @@ msgstr "Украйна"
 msgid "United States of America"
 msgstr "Съединени американски щати"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:4
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:4
 #: ../data/org.gramps_project.Gramps.desktop.in:3
 msgid "Gramps"
 msgstr "Gramps"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:5
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:5
 #: ../data/org.gramps_project.Gramps.desktop.in:6
 msgid ""
 "Manage genealogical information, perform genealogical research and analysis"
@@ -248,7 +248,7 @@ msgstr ""
 "Управление на генеалогична информация, извършване на генеалогични "
 "изследвания и анализи"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:7
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:7
 #: ../gramps/gen/const.py:255
 msgid ""
 "Gramps is a genealogy program that is both intuitive for hobbyists and "
@@ -257,7 +257,7 @@ msgstr ""
 "Gramps е генеалогична програма, която е едновременно интуитивна за любители "
 "и пълна с функции за професионални генеалози."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:8
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:8
 msgid ""
 "It gives you the ability to record the many details of the life of an "
 "individual as well as the complex relationships between various people, "
@@ -266,7 +266,7 @@ msgstr ""
 "Той ви дава възможност да записвате многото детайли от живота на индивида, "
 "както и сложните взаимоотношения между различни хора, места и събития."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:9
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:9
 msgid ""
 "All of your research is kept organized, searchable and as precise as you "
 "need it to be."
@@ -274,7 +274,7 @@ msgstr ""
 "Всички ваши изследвания се поддържат организирани, с възможност за търсене и "
 "толкова точни, колкото е необходимо."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:12
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:12
 #, fuzzy
 msgid "Gramps Development Team"
 msgstr "Генеалогична система Gramps"

@@ -228,18 +228,18 @@ msgstr "Ukraina"
 msgid "United States of America"
 msgstr "USA"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:4
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:4
 #: ../data/org.gramps_project.Gramps.desktop.in:3
 msgid "Gramps"
 msgstr "Gramps"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:5
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:5
 #: ../data/org.gramps_project.Gramps.desktop.in:6
 msgid ""
 "Manage genealogical information, perform genealogical research and analysis"
 msgstr "Handsama slektsgranskarinformasjon, utføra slektsgransking og analyse"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:7
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:7
 #: ../gramps/gen/const.py:255
 msgid ""
 "Gramps is a genealogy program that is both intuitive for hobbyists and "
@@ -248,7 +248,7 @@ msgstr ""
 "Gramps er eit slektsgranskingsprogram som både er intuitivt for "
 "hobbybrukarar og funksjonsrikt for profesjonelle forskarar."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:8
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:8
 msgid ""
 "It gives you the ability to record the many details of the life of an "
 "individual as well as the complex relationships between various people, "
@@ -257,7 +257,7 @@ msgstr ""
 "Det lar deg registrera mange detaljar frå livet til ein person og likeeins "
 "dei komplekse relasjonane mellom personar, stader og hendingar."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:9
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:9
 msgid ""
 "All of your research is kept organized, searchable and as precise as you "
 "need it to be."
@@ -265,7 +265,7 @@ msgstr ""
 "Alt forskingsmaterialet ditt blir organisert søkbart, og nett så presist som "
 "du treng det."
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:12
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:12
 msgid "Gramps Development Team"
 msgstr "Gramps utviklingsteam"
 

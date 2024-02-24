@@ -231,18 +231,18 @@ msgstr "ウクライナ"
 msgid "United States of America"
 msgstr "アメリカ合衆国"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:4
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:4
 #: ../data/org.gramps_project.Gramps.desktop.in:3
 msgid "Gramps"
 msgstr "Gramps"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:5
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:5
 #: ../data/org.gramps_project.Gramps.desktop.in:6
 msgid ""
 "Manage genealogical information, perform genealogical research and analysis"
 msgstr "系統情報の管理、系統学的研究・分析"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:7
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:7
 #: ../gramps/gen/const.py:255
 msgid ""
 "Gramps is a genealogy program that is both intuitive for hobbyists and "
@@ -251,7 +251,7 @@ msgstr ""
 "Grampsは、愛好家にとっては直感的に使用でき、プロの系譜学者にとっても機能の充"
 "実した、系譜学プログラムです。"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:8
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:8
 msgid ""
 "It gives you the ability to record the many details of the life of an "
 "individual as well as the complex relationships between various people, "
@@ -260,13 +260,13 @@ msgstr ""
 "個人の人生の多くの詳細を記録するだけでなく、さまざまな人々、場所、イベントと"
 "の複雑な関係性をも記録することができます。"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:9
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:9
 msgid ""
 "All of your research is kept organized, searchable and as precise as you "
 "need it to be."
 msgstr "全ての調査は整理され、検索可能であり、必要に応じた正確さで保たれます。"
 
-#: ../data/org.gramps_project.Gramps.appdata.xml.in:12
+#: ../data/org.gramps_project.Gramps.metainfo.xml.in:12
 #, fuzzy
 msgid "Gramps Development Team"
 msgstr "Gramps Genealogy System"
