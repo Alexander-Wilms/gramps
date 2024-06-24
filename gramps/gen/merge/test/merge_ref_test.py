@@ -58,7 +58,7 @@ class BaseMergeCheck(unittest.TestCase):
         """Set up code needed by all tests."""
         date = time.localtime(time.time())
         # libxml2.keepBlanksDefault(0)
-        self.parser = ET.XMLParser(remove_blank_text=True)
+        self.parser = ET.XMLParser(remove_blank_text=True, resolve_entities=False)
         styledoc = ET.parse(
             os.path.join(DATA_DIR, "gramps_canonicalize.xsl"), parser=self.parser
         )
