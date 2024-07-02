@@ -113,7 +113,7 @@ def lookup_family_tree(dbname):
         path_name = os.path.join(dirpath, "name.txt")
         if os.path.isfile(path_name):
             with open(path_name, "r", encoding="utf8") as file:
-                name = file.readline().strip()
+                name = file.readline(5_000_000).strip()
             if dbname == name:
                 locked = False
                 locked_by = None
