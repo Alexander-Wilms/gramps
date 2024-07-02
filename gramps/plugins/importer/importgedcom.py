@@ -85,7 +85,7 @@ def importData(database, filename, user):
                 # only trying to detect a CHAR or SOUR line which is only
                 # 7-bit ASCII anyway,  and we ignore anything that can't be
                 # translated.
-                line = ifile.readline()
+                line = ifile.readline(5_000_000)
                 line = line.split()
                 if len(line) == 0:
                     break

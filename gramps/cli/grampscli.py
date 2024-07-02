@@ -277,7 +277,7 @@ class CLIManager:
             path = os.path.join(filename, "name.txt")
             try:
                 with open(path, encoding="utf8") as ifile:
-                    title = ifile.readline().strip()
+                    title = ifile.readline(5_000_000).strip()
             except:
                 title = filename
 

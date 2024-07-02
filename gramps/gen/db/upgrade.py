@@ -2200,7 +2200,7 @@ def make_zip_backup(dirname):
     replace_char = "-__________"
     filepath = os.path.join(dirname, NAME_FILE)
     with open(filepath, "r", encoding="utf8") as name_file:
-        title = name_file.readline().strip()
+        title = name_file.readline(5_000_000).strip()
     trans = title.maketrans(reserved_char, replace_char)
     title = title.translate(trans)
 

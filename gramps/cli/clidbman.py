@@ -266,7 +266,7 @@ class CLIDbManager:
                 backend_type = get_dbid_from_path(dirpath)
                 if os.path.isfile(path_name):
                     with open(path_name, "r", encoding="utf8") as file:
-                        name = file.readline().strip()
+                        name = file.readline(5_000_000).strip()
 
                     (tval, last) = time_val(dirpath)
                     (enable, stock_id) = self.icon_values(
@@ -453,7 +453,7 @@ class CLIDbManager:
             path_name = os.path.join(dirpath, NAME_FILE)
             if os.path.isfile(path_name):
                 with open(path_name, "r", encoding="utf8") as file:
-                    name = file.readline().strip()
+                    name = file.readline(5_000_000).strip()
                 if re.match("^" + dbname + "$", name) or dbname == name:
                     match_list.append((name, dirpath))
         if len(match_list) == 0:

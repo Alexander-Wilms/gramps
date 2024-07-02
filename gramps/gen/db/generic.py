@@ -854,7 +854,7 @@ class DbGeneric(DbWriteBase, DbReadBase, UpdateCallback, Callback):
             filepath = os.path.join(self._directory, "name.txt")
             try:
                 with open(filepath, "r", encoding="utf8") as name_file:
-                    name = name_file.readline().strip()
+                    name = name_file.readline(5_000_000).strip()
             except (OSError, IOError) as msg:
                 LOG.error(str(msg))
         return name
